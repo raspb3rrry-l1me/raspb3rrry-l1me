@@ -4,5 +4,8 @@
 
 misha - yumi // he - him // rus - eng - learning fin
 <br/>
+
+i do python, 3d modeling and animating stuff.
+planning on going to uni for cybsec or telecommunication systems (maybe something developing related if im lucky)
  
           
