@@ -13,7 +13,7 @@
 
 <p align="center">misha - yumi // he - him // rus - eng - learning fin</p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=raspb3rrry-l1me&abbreviated=true&style=flat-square&label=cute+puppies&color=001FFF"/>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=raspb3rrry-l1me&abbreviated=true&style=flat-square&label=chen+copies&color=8D9442"/>
 <br/></p>
 
 <div id="windows">i do python, 3d modeling and animating stuff.
