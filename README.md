@@ -13,6 +13,7 @@
 
 
 <div id="windows"> misha - yumi // he - him // rus - eng - learning fin </div>
+![](https://komarev.com/ghpvc/?username=raspb3rrry-l1me&abbreviated=true&style=flat-square&label=cute+puppies&color=001FFF)
 <br/>
 
 <div id="windows">i do python, 3d modeling and animating stuff.
