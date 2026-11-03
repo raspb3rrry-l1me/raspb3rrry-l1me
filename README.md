@@ -11,10 +11,10 @@
 <img src="https://blinkie.wiki/imgs/Lonely%20Coconut/stamps/autism%20creature%20tbh.gif"/>
 <img src="https://64.media.tumblr.com/acda4b45557dd38d0badfa523909cd8c/8e782af85249706f-63/s100x200/479d6a2edc391dc218c9319e0299e27a4b142a31.gifv"/>
 
+<p align="center">misha - yumi // he - him // rus - eng - learning fin</p>
 
-<div id="windows"> misha - yumi // he - him // rus - eng - learning fin </div>
-![](https://komarev.com/ghpvc/?username=raspb3rrry-l1me&abbreviated=true&style=flat-square&label=cute+puppies&color=001FFF)
-<br/>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=raspb3rrry-l1me&abbreviated=true&style=flat-square&label=cute+puppies&color=001FFF"/>
+<br/></p>
 
 <div id="windows">i do python, 3d modeling and animating stuff.
 i am planning on going to uni for cybsec or telecommunication systems ( maybe something developing related if im lucky lol )</div>
@@ -22,8 +22,8 @@ i am planning on going to uni for cybsec or telecommunication systems ( maybe so
 i also like Touhou Project, UNDERTALE/deltarune, Balatro and 2000's japanese music! 
 <br><br/>
 favs:<br>
-.    touhou: Patchouli Knowledge, Chen, Sakuya Izayoi, Flandre Scarlet, Tewi Inaba <br>
-<img src="https://media.tenor.com/wtWTf_r77JkAAAAi/touhou-touhou-project.gif"/> <br>
-.    UNDERTALE/deltarune: kris, berdley, Queen, the floradinn ( and ive been liiiiiiicking it ) and the roaring knight! <br> ( hm: flowery and rally <3 ) <br>
+<img align="right" src="https://media.tenor.com/wtWTf_r77JkAAAAi/touhou-touhou-project.gif"/> 
+<p align="center">.    touhou: Patchouli Knowledge, Chen, Sakuya Izayoi, Flandre Scarlet, Tewi Inaba</p> <br>
+<p align="center">.    UNDERTALE/deltarune: kris, berdley, Queen, the floradinn ( and ive been liiiiiiicking it ) and the roaring knight! <br> ( hm: flowery and rally <3 )</p> <br>
 <img src="https://friendrewind.com/media/photos/photo-0b3dd494f9430f9f.webp"/>
 .    other: Tori Himemiya, Hyuna, Denji, Yuuri & Chiito (girls' last tour) :3 
