@@ -7,11 +7,4 @@
 <div id="windows">i do python, 3d modeling and animating stuff.
 planning on going to uni for cybsec or telecommunication systems (maybe something developing related if im lucky)</div>
  
- @font-face {
-    font-family: windows;
-    src: url(https://dl.dropbox.com/s/cn0l1yjacta4whv/W95FA.otf);
-    }
-    #windows {
-    font-family: windows;
-    font-size: 20px;
-    }          
+
