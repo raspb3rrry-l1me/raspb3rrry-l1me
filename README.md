@@ -13,7 +13,7 @@
 
 <p align="center">misha - yumi // he - him // rus - eng - learning fin</p>
 
-<p align="center"> <a href="https://friendrewind.com/profile.php?id=26030"> ｆｒｉｗｉｎｄ </a> 🍰 <img src="https://komarev.com/ghpvc/?username=raspb3rrry-l1me&abbreviated=true&style=flat-square&label=chen+copies&color=8D9442"/> 🍰 <a href="https://yumyum.atabook.org/"> ａｔａｂｏｏｋ</a></p>
+<p align="center"> <a href="https://friendrewind.com/profile.php?id=26030"> ｖｉｓｉｔ ｍｙ ｆｒｉｅｎｄ ｒｅｗｉｎｄ </a> 🍰 <img src="https://komarev.com/ghpvc/?username=raspb3rrry-l1me&abbreviated=true&style=flat-square&label=chen+copies&color=8D9442"/> 🍰 <a href="https://yumyum.atabook.org/"> ｓｉｇｎ ｍｙ ａｔａｂｏｏｋ </a></p>
 
 
 
