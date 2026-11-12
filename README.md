@@ -11,7 +11,7 @@
 <img src="https://blinkie.wiki/imgs/Lonely%20Coconut/stamps/autism%20creature%20tbh.gif"/>
 <img src="https://64.media.tumblr.com/acda4b45557dd38d0badfa523909cd8c/8e782af85249706f-63/s100x200/479d6a2edc391dc218c9319e0299e27a4b142a31.gifv"/></p>
 
-<p align="center">misha - yumi // he - him // rus - eng - learning fin</p>
+<p align="center">misha - yumi // he - him / she - her // rus - eng - learning fin</p>
 
 <p align="center"> <a href="https://friendrewind.com/profile.php?id=26030">ｆｒｉｅｎｄ ｒｅｗｉｎｄ </a> 🍰 <img src="https://komarev.com/ghpvc/?username=raspb3rrry-l1me&abbreviated=true&style=flat-square&label=chen+copies&color=8D9442"/> 🍰 <a href="https://yumyum.atabook.org/"> ｓｉｇｎ ｍｙ ａｔａｂｏｏｋ! </a></p>
 
